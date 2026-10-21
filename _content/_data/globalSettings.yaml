@@ -1,1 +1,5 @@
-
+siteName: "pkt5"
+productionUrl: https://pkt5.pages.dev
+languages:
+  - code: en
+    status: published
